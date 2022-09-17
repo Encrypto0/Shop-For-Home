@@ -1,0 +1,5 @@
+package eshop.homedecor.shopapi.api;
+
+public class CartControllerTest {
+
+}
